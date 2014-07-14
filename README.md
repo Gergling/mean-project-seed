@@ -15,4 +15,4 @@ run
 
 Run cmd.bat
 
-This will open two CLIs, one of which is already running mongo, the other ready to start node server.js.
+This will open two CLIs, already running mongo and node server.js.
