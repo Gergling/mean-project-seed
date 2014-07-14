@@ -1,0 +1,8 @@
+.project
+.settings
+node_modules
+build
+src/bower_components
+src/public_html/environment.json
+src/public_html/vendor
+documentation
