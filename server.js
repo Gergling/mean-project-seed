@@ -35,7 +35,7 @@ console.log('Magic happens on port ' + port); 			// shoutout to the user
 var db = mongoose.connection;
 db.on('error', console.error.bind(console, 'connection error:'));
 db.once('open', function callback () {
-    console.log(db);
+    
 });
 
 var kittySchema = mongoose.Schema({
